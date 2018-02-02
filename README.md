@@ -10,25 +10,20 @@
  │  │ │  │││  ├┴╮       ├┬╯  ├┤   │││  │ │  ╰╮╭╯  ├─┤  │  
 ╰╯  ╰─╯  ╯╰╯  ┴ ┴       ┴╰─  ╰─╯  ┴ ┴  ╰─╯   ╰╯   ┴ ┴  ┴─╯
 ```
-> BNitcoin Junk Removal. logo and artwork.
+> Bitcoin Junk Removal. logo and artwork.
 
-[![image](https://raw.githubusercontent.com/websemantics/bitcoin-junk-removal/gh-pages/assets/png/logo-yellow-h-w400.png)](http://websemantics.io)
 
-[![image](https://raw.githubusercontent.com/websemantics/bitcoin-junk-removal/gh-pages/assets/png/logo-green-h-w400.png)](http://websemantics.io)
+[![image](https://websemantics.github.io/bitcoin-junk-removal/dist/assets/svg/blue-gradient.svg)](http://websemantics.io)
 
-[![image](https://raw.githubusercontent.com/websemantics/bitcoin-junk-removal/gh-pages/assets/png/logo-blue-h-w400.png)](http://websemantics.io)
+[![image](https://websemantics.github.io/bitcoin-junk-removal/dist/assets/svg/green-gradient.svg)](http://websemantics.io)
 
-[![image](https://raw.githubusercontent.com/websemantics/bitcoin-junk-removal/gh-pages/assets/png/logo-red-h-w400.png)](http://websemantics.io)
+[![image](https://websemantics.github.io/bitcoin-junk-removal/dist/assets/svg/grey-gradient.svg)](http://websemantics.io)
 
-[![image](https://raw.githubusercontent.com/websemantics/bitcoin-junk-removal/gh-pages/assets/png/logo-solid-h-w400.png)](http://websemantics.io)
+[![image](https://websemantics.github.io/bitcoin-junk-removal/dist/assets/svg/grey-outline-grey-solid.svg)](http://websemantics.io)
 
-[View all media](http://websemantics.github.io/bitcoin-junk-removal/)
+[![image](https://websemantics.github.io/bitcoin-junk-removal/dist/assets/svg/grey-solid.svg)](http://websemantics.io)
 
-blue-gradient.svg
-green-gradient.svg
-grey-gradient.svg
-grey-outline-grey-solid.svg
-grey-solid.svg
+[View all media](https://websemantics.github.io/bitcoin-junk-removal/dist/index.html/)
 
 ## Install
 
