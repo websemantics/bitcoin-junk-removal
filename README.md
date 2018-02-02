@@ -10,7 +10,7 @@
  │  │ │  │││  ├┴╮       ├┬╯  ├┤   │││  │ │  ╰╮╭╯  ├─┤  │  
 ╰╯  ╰─╯  ╯╰╯  ┴ ┴       ┴╰─  ╰─╯  ┴ ┴  ╰─╯   ╰╯   ┴ ┴  ┴─╯
 ```
-> Bitcoin Junk Removal. logo and artwork [View all](https://websemantics.github.io/bitcoin-junk-removal/dist/index.html/)
+> Bitcoin Junk Removal. logo and artwork [View all](https://websemantics.github.io/bitcoin-junk-removal/dist/index.html)
 
 [![image](https://websemantics.github.io/bitcoin-junk-removal/dist/assets/svg/blue-gradient.svg)](http://websemantics.io)
 
