@@ -13,7 +13,7 @@
   "scripts": {
     "postinstall": "gulp"
   },
-  "repository": "bitcoin-junk-removal/media",
+  "repository": "websemantics/bitcoin-junk-removal",
   "bugs": {
     "url": "https://github.com/bitcoin-junk-removal/media/issues"
   },

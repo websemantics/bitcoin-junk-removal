@@ -34,7 +34,7 @@
         <div class="ui attached fluid segment">
           <div class="ui images rounded bordered">https://raw.githubusercontent.com/{{ html.github_url }}
             {% for item in png %}
-            <a href="https://raw.githubusercontent.com/{{ html.github_url }}/gh-pages/{{ item.dest }}/{{ item.filename }}.{{ item.extension }}"><img data-content="{{ item.dest }}/{{ item.filename }}.{{ item.extension }}" data-variation="inverted" src="{{ item.dest }}/{{ item.filename }}.{{ item.extension }}"></a>{% endfor %}
+            <a href="https://raw.githubusercontent.com/{{ html.github_url }}/dist/{{ item.dest }}/{{ item.filename }}.{{ item.extension }}"><img data-content="{{ item.dest }}/{{ item.filename }}.{{ item.extension }}" data-variation="inverted" src="{{ item.dest }}/{{ item.filename }}.{{ item.extension }}"></a>{% endfor %}
           </div>
         </div>
       </div>
@@ -48,7 +48,7 @@
         <div class="ui attached fluid segment">
           <div class="ui images rounded bordered">
              {% for item in svg %}
-             <a href="https://raw.githubusercontent.com/{{ html.github_url }}/gh-pages/{{ item.dest }}/{{ item.filename }}.{{ item.extension }}"><img width="200" height="118" data-content="{{ item.dest }}/{{ item.filename }}.{{ item.extension }}" data-variation="inverted" src="{{ item.dest }}/{{ item.filename }}.{{ item.extension }}"></a>{% endfor %}
+             <a href="https://raw.githubusercontent.com/{{ html.github_url }}/dist/{{ item.dest }}/{{ item.filename }}.{{ item.extension }}"><img width="200" height="118" data-content="{{ item.dest }}/{{ item.filename }}.{{ item.extension }}" data-variation="inverted" src="{{ item.dest }}/{{ item.filename }}.{{ item.extension }}"></a>{% endfor %}
           </div>
         </div>
       </div>
