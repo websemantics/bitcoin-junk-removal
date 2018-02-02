@@ -13,6 +13,3 @@
 <text x="170" y="540" fill="{{ line_1_color }}" font-weight="600" font-size="52" font-family="'LucidaGrande-Bold','Lucida Grande',sans-serif">{{ line_1_text }}</text>
 <text x="245" y="610" fill="{{ line_2_color }}" font-weight="700" font-size="38"  font-family="'Arial-BoldMT','Arial',sans-serif">{{ line_2_text }}</text>
 </svg>
-
-https://websemantics.github.io/bitcoin-junk-removal/dist/assets/svg/green-gradient.svg
-https://raw.githubusercontent.com/websemantics/bitcoin-junk-removal/dist/assets/svg/green-gradient.svg
